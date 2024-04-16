@@ -1,0 +1,11 @@
+pages:
+  stage: deploy
+  script:
+    - mkdir public               # Ensure the public directory exists
+    - cp -r docs/* public/       # Copy everything from docs to public
+  artifacts:
+    paths:
+      - public
+  only:
+    - master  # or your default branch
+
