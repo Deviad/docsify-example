@@ -1,4 +1,6 @@
 - [Home](/)
-- [Version 1.0](/v1.0/_sidebar.md)
-- [Version 1.1](/v2.0/_sidebar.md)
-- [Changelog](changelog.md)
+- Versions
+  - [Version 1.0](/v1.0/_sidebar.md)
+  - [Version 1.1](/v2.0/_sidebar.md)
+- Changes
+  - [Changelog](changelog.md)

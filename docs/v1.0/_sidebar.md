@@ -1,4 +1,5 @@
-- **Documentation**
+- [Home](/)
+- v1.0
   - [Getting Started](v1.0/documentation/getting-started.md)
   - [Theme](v1.0/documentation/theme.md)
   - [External (Link git tag)](v1.0/documentation/external.md)
