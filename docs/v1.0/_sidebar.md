@@ -1,4 +1,4 @@
 - **Documentation**
-  - [Getting Started](documentation/getting-started.md)
-  - [Theme](documentation/theme.md)
-  - [External (Link git tag)](documentation/external.md)
+  - [Getting Started](v1.0/documentation/getting-started.md)
+  - [Theme](v1.0/documentation/theme.md)
+  - [External (Link git tag)](v1.0/documentation/external.md)
